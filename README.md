@@ -1,6 +1,6 @@
 # oibsip-task-1
  OCEAN BLUES PHOTOGRAPHY WEBSITE MADE USING HTML, CSS, FIREBASE.
- LIVE WEBSITE LINK -  https://debjyoti-oceans-blue.web.app/
+
 
 
 ![Screenshot (9279)](https://github.com/debjyotidas111/oibsip-task-1/assets/86339364/e2724217-426d-41c1-87db-650d9a00943a)
